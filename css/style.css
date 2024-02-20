@@ -1,0 +1,13 @@
+body{
+    background-color:mediumaquamarine;
+    display: flex;
+    gap: 1em;
+    font-size: 3em;
+}
+dialog p {
+    background-color: mediumaquamarine;
+}
+
+button{
+    font-size: 0.5em;
+}
